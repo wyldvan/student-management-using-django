@@ -1,5 +1,5 @@
 # Pre-Requisites:
-1. Install Git Version Control:octocat:
+1. Install Git Version Control :octocat:
 [ https://git-scm.com/ ]
 
 2. Install Python Latest Version:snake:
