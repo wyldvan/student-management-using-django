@@ -16,12 +16,12 @@
 ___
 **2. Create a Virtual Environment and Activate**
 
-> Install Virtual Environment First
+Install Virtual Environment First
 ```
 $  pip install virtualenv
 ```
 ___
->Create Virtual Environment
+Create Virtual Environment
 
 For Windows
 ```
@@ -36,7 +36,7 @@ For Linux
 $  virtualenv .
 ```
 ___
-> Activate Virtual Environment
+Activate Virtual Environment
 
 For Windows
 ```
@@ -78,5 +78,3 @@ ALLOWED_HOSTS = []
 
 > [!WARNING]
 > Do not use the fault allowed settings in this repo. It has security risk!
-
-
