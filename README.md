@@ -2,10 +2,10 @@
 1. Install Git Version Control :octocat:
 [ https://git-scm.com/ ]
 
-2. Install Python Latest Version:snake:
+2. Install Python Latest Version :snake:
 [ https://www.python.org/downloads/ ]
 
-3. Install Pip (Package Manager):package:
+3. Install Pip (Package Manager) :package:
 [ https://pip.pypa.io/en/stable/installing/ ]
 
 > [!NOTE]
