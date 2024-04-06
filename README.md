@@ -78,3 +78,47 @@ ALLOWED_HOSTS = []
 
 > [!WARNING]
 > Do not use the fault allowed settings in this repo. It has security risk!
+___
+**6. Now Run Server**
+
+Command for PC:
+```python
+$ python manage.py runserver
+```
+___
+**7. Login Credentials**
+
+Create Super User (HOD)
+Command for PC:
+```
+$  python manage.py createsuperuser
+```
+
+Command for Mac:
+```
+$  python3 manage.py createsuperuser
+```
+
+Command for Linux:
+```
+$  python3 manage.py createsuperuser
+```
+
+
+:information_source:Then Add Email and Password
+
+**or Use Default Credentials**
+
+*For HOD /SuperAdmin*
+Email: admin@admin.com
+Password: admin
+
+*For Staff*
+Email: staff@staff.com
+Password: staff
+
+*For Student*
+Email: student@student.com
+Password: student
+
+:snake:
