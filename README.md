@@ -1,11 +1,11 @@
 # Pre-Requisites:
-1. Install Git Version Control
+1. Install Git Version Control:octocat:
 [ https://git-scm.com/ ]
 
-2. Install Python Latest Version
+2. Install Python Latest Version:snake:
 [ https://www.python.org/downloads/ ]
 
-3. Install Pip (Package Manager)
+3. Install Pip (Package Manager):package:
 [ https://pip.pypa.io/en/stable/installing/ ]
 
 > [!NOTE]
@@ -121,4 +121,4 @@ Password: staff
 Email: student@student.com
 Password: student
 
-:snake:
+:snake::octocat::package:
